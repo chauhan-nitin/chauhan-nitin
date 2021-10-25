@@ -1,7 +1,7 @@
 <div align="justify">
   
 <h2 align="justify"> Welcome</h2>
-<h3 align="justify"> Hey folks. I'm Nitin, a data science professional expereinced in Finance and Energy domain. For me github is a platform that provides a oppportunity to share and contribute to the data community. You can find me on Kaggle as well. </h3>
+<h4 align="justify"> Hey folks. I'm Nitin, a data science professional expereinced in Finance and Energy domain. For me github is a platform that provides a oppportunity to share and contribute to the data community. You can find me on Kaggle as well. </h4>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chauhan-nitin&label=Profile%20views&color=0eb6a3&style=flat" alt="chauhan-nitin" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
