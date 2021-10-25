@@ -1,6 +1,6 @@
 <h2 align="justify"> Hi there, I'm Nitin, a data science professional experienced in Finance & Energy domain. Feel free to checkout my repo. Ciao</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit32624&label=Profile%20views&color=0e75b6&style=flat" alt="amit32624" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=chauhan-nitin&label=Profile%20views&color=0eb6a3&style=flat" alt="chauhan-nitin" /> </p>
 
 
 - ⚡ Fun fact **I think I'm funny and serious at the same time**
