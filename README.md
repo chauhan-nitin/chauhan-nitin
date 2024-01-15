@@ -1,9 +1,10 @@
 <div align="justify">
   
-<h2 align="justify"> Welcome</h2>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=chauhan-nitin&label=Profile%20views&color=0eb6a3&style=flat" alt="chauhan-nitin" /> </p>
 
-# [Nitin Chauhan]
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=chauhan-nitin&label=Profile%20views&color=0eb6a3&style=flat" alt="chauhan-nitin" /> </p>
+<h2 align="justify"> Welcome</h2>
+<h3 align="justify"> Nitin Chauhan </h3>
+
 ## Data Scientist | Green Tech & Fintech Expert
 
 📈 **7 Years of Experience in Data Science**
