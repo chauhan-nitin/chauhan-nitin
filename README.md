@@ -24,17 +24,11 @@
 
 ## 💼 Professional Experience
 
-### [Current Company] - Senior Data Scientist
-_(Month Year - Present)_
+### Alfred Maritime GmbH - Senior Data Scientist
+_(Aug 2022 - Present)_
 
-- Spearheaded the development of a predictive analytics model that resulted in a 20% improvement in energy efficiency in Green Tech initiatives.
-- Collaborated with cross-functional teams to implement data-driven strategies, contributing to a 15% increase in revenue in the Fintech sector.
-
-### [Previous Company] - Lead Data Analyst
-_(Month Year - Month Year)_
-
-- Led a team in analyzing customer financial behavior, leading to the identification of new market opportunities and a 25% growth in customer acquisition.
-- Implemented a fraud detection system that reduced financial losses by 30%.
+### Railsr - Data Scientist (Mid-Senior)
+_(Feb 2022 - June 2022)_
 
 ---
 
@@ -47,10 +41,10 @@ _(Month Year - Month Year)_
 
 ## 📚 Education
 - **Master of Science in Data Science & Analytics**
-  [University College Cork], [2018]
+  University College Cork, 2018
 
 - **Bachelor of Engineering in Computer Science**
-  [Maharshi Dayanand University], [2015]
+  Maharshi Dayanand University, 2015
 
 ---
 
