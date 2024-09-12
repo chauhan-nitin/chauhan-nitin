@@ -22,19 +22,6 @@
 - **B.Tech in Computer Science Engineering**  
   Maharshi Dayanand University, Rohtak, India (2011 - 2015)
 
-## Key Work Highlights
-- **Data Consultant (Freelance)** (2022 - Present)  
-  Led price optimization initiatives using advanced machine learning algorithms, resulting in a 31% improvement in decision-making effectiveness. Deployed MLOps pipelines for energy trading, enhancing monitoring and transparency.
-
-- **Data Scientist (Mid-Senior), Alfred Maritime GmbH** (2022 - 2024)  
-  Exceeded energy consumption model accuracy benchmarks by 10%, reducing fuel expenses by 5%. Implemented energy forecasting models that led to a 12% decrease in maintenance costs.
-
-- **Data Scientist (Mid-Senior), Proxify** (2022 - Present)  
-  Developed customer clustering techniques to identify unusual or fraudulent behavior in transaction activities.
-
-- **Senior Data Scientist, E.ON Digital Technology** (2024 - Present)  
-  Spearheading policy reformation for Volume Forecasting in the GB market, utilizing tools like Snowflake, Azure Databricks, and PowerBI.
-
 ## 🚀 Achievements
 - Achieved a **5% reduction in fuel-related expenses** and **12% decrease in unplanned maintenance costs** through optimized energy models.
 - Delivered a **15% increase in accuracy** and **25% reduction in trading costs** for energy trading applications at Alfred Maritime GmbH.
