@@ -22,16 +22,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### Alfred Maritime GmbH - Senior Data Scientist
-_(Aug 2022 - Present)_
-
-### Railsr - Data Scientist (Mid-Senior)
-_(Feb 2022 - June 2022)_
-
----
-
 ## 🚀 Key Achievements
 - **Innovation Award:** Received company-wide recognition for pioneering data-driven solutions that significantly impacted business outcomes.
 - **Publication:** Published research on the application of machine learning in sustainable energy practices in a leading industry journal.
@@ -49,9 +39,7 @@ _(Feb 2022 - June 2022)_
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website/Blog](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/nitin-chauhan/)
 
 ---
 
